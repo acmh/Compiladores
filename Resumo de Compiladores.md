@@ -23,3 +23,11 @@ Resumo de Compiladores
 				3. Leva em consideração a função main
 			- Quizz Time: Slicing Estático é melhor que Slicing Dinâmico?
 
+## Otimização de Código
+	- Serve para evitar computações redundantes ou computações supérfluas
+	
+| Análise 					| Are           			| 
+| -------------------------	| :------------------------:|
+| Expressões já disponíveis | Eliminação da subexpressão em comum 			|
+| Detecção de variáveis invariante no loop      		|  Retira a variavel invariante do loop	|
+| Avaliação de expressões equivalentes | Copia e propaga      			|
