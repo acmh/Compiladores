@@ -26,7 +26,7 @@ Resumo de Compiladores
 ## Otimização de Código
 	- Serve para evitar computações redundantes ou computações supérfluas
 	
-| Análise 					| Are           			| 
+| Análise 					| Transformação         			| 
 | -------------------------	| :------------------------:|
 | Expressões já disponíveis | Eliminação da subexpressão em comum 			|
 | Detecção de variáveis invariante no loop      		|  Retira a variavel invariante do loop	|
