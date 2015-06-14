@@ -9,7 +9,7 @@ Resumo de Compiladores
 	- Call graph (Identifica o chamador e o chamado)
 
 # Análise Estática
-	- **Técnica para extrair informação de um software em tempo de compilação**
+	**- Técnica para extrair informação de um software em tempo de compilação**
 	- Conceito Fundamental: Dependência de Código
 	- Dataflow Analysis: Determina o comportamento dinâmico de um programa olhando apenas o código estático (Por exemplo, quanto registradores serão necessários para a execução do programa?)
 	- Liveness Analysis (Não vi no slide do professor)
